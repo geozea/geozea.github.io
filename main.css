@@ -1,0 +1,10 @@
+body{
+	background-image: url("BG.jpg");
+	background-size: cover;
+}
+
+.main{
+	padding-top: 400px;
+	font-family: 'Lato', Arial, Times New Roman;
+	color: black;
+}
